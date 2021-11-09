@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# My name is Preetipan Suttipan
+### My name is Preetipan Suttipan
 
 <!--
 **preetipan/Preetipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
